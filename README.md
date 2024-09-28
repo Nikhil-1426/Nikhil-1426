@@ -9,7 +9,6 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/nikhil-parkar-49b600274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" border="2" style="padding: 5px; border-color: black;" alt="nikhil parkar" height="25" style="margin-right: 10px;" /></a>
     <a href="https://instagram.com/nikhil_140206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" border="2" style="padding: 5px; border-color: black;" alt="nikhil_140206" height="25" style="margin-right: 10px;" /></a>
-    <a href="https://www.hackerrank.com/profile/DeathSOLO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" border="2" style="padding: 5px; border-color: black;" alt="nikhil" height="25" style="margin-right: 10px;" /></a>
     <a href="https://www.leetcode.com/nikhil_parkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" border="2" style="padding: 5px; border-color: black;" alt="nikhil_parkar" height="25" style="margin-right: 10px;" /></a>
 </p>
 
