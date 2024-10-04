@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi👋, I'm Nikhil</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hey There👋, I'm Nikhil</h1>
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Sophomore CSE AIML Student at VIT Chennai</h3>
 
 - 🌱 I’m currently learning *Data Science and Machine Learning*
