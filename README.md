@@ -73,7 +73,6 @@ Currently, I’m exploring ML models and reinforcement learning, because, let’
     <td>
       <img src="https://img.shields.io/badge/git-%2300599C.svg?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-%2300599C.svg?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS Code-%23ED8B00.svg?style=flat-square&logo=vscode&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android Studio-3670A0?style=flat-square&logo=androidstudio&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/HTML-%23323330.svg?style=flat-square&logo=html5&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/Firebase-%23007ACC.svg?style=flat-square&logo=firebase&logoColor=white"/>
