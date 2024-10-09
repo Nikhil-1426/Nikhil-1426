@@ -42,7 +42,7 @@ Currently, I’m exploring ML models and reinforcement learning, because, let’
 ###
 
 <div align="left">
-<h2>⚡ Languages and Frameworks</h2>
+<h2>⚡ Tech Stack</h2>
 <table>
   <tr>
     <td>Programming Languages</td>
