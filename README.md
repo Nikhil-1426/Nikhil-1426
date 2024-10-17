@@ -28,7 +28,7 @@
 
 I’m Nikhil Parkar, an 18-year-old tech enthusiast pursuing a B.Tech in Computer Science at VIT Chennai. Originally from Mumbai, I’m passionate about coding, sports, and never passing up a chance to learn something new. Proficient in Python, C, C++, and familiar with Java, JavaScript, and Dart, I love diving into code — after all, it’s the one place where errors are welcome! 
 
-Currently, I’m exploring ML models and reinforcement learning, because, let’s face it, who doesn’t want their algorithms to learn faster than they do?
+Currently, I’m exploring ML models and reinforcement learning, because, let’s face it, who doesn’t want their algorithms to learn faster than they do ?
 
 ###
 
