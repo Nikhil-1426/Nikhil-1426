@@ -62,10 +62,9 @@ Currently, I’m exploring ML models and reinforcement learning, because, let’
       <img src="https://img.shields.io/badge/Vue.js-3670A0?style=flat-square&logo=vue.js&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-%23E34F26.svg?style=flat-square&logo=Node.JS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tensorflow-38B2AC.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Keras-%231572B6.svg?style=flat-square&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pandas-3670A0?style=flat-square&logo=pandas&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/NumPy-%23323330.svg?style=flat-square&logo=numpy&logoColor=%23F7DF1E"/>
     </td>
   </tr>
   <tr>
@@ -75,6 +74,7 @@ Currently, I’m exploring ML models and reinforcement learning, because, let’
       <img src="https://img.shields.io/badge/GitHub-%2300599C.svg?style=flat-square&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android Studio-3670A0?style=flat-square&logo=androidstudio&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/HTML-%23323330.svg?style=flat-square&logo=html5&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-%23007ACC.svg?style=flat-square&logo=firebase&logoColor=white"/>
       <img src="https://img.shields.io/badge/Anaconda-%231572B6.svg?style=flat-square&logo=anaconda&logoColor=white"/>
     </td>
