@@ -72,11 +72,11 @@ Currently, I’m exploring ML models and reinforcement learning, because, let’
     <td>
       <img src="https://img.shields.io/badge/git-%2300599C.svg?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-%2300599C.svg?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android Studio-3670A0?style=flat-square&logo=androidstudio&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/Android Studio-38B2AC?style=flat-square&logo=androidstudio&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/HTML-%23323330.svg?style=flat-square&logo=html5&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-%23007ACC.svg?style=flat-square&logo=firebase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Anaconda-%231572B6.svg?style=flat-square&logo=anaconda&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-%23E34F26.svg?style=flat-square&logo=supabase&logoColor=white"/>
     </td>
   </tr>
 </table>
