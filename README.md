@@ -26,7 +26,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Nikhil-1426&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
-I’m Nikhil Parkar, an 19-year-old tech enthusiast pursuing a B.Tech in Computer Science at VIT Chennai. Originally from Mumbai, I’m passionate about coding, sports, and never passing up a chance to learn something new. Proficient in Python, C, C++, Java and familiar with JavaScript, and Dart, I love diving into code — after all, it’s the one place where errors are welcome! 
+AI/ML Dev :) 
 
 Currently, I’m exploring ML models and reinforcement learning, because, let’s face it, who doesn’t want their algorithms to learn faster than they do ?
 
